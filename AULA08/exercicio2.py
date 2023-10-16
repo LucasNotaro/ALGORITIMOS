@@ -1,3 +1,7 @@
+# Faça um algoritmo que solicite uma data no
+# formato de uma string – dd/mm/aaaa. Mostre
+# essa data no formato AAAAMMDD
+
 data = input("Digite a data no formato dd/mm/aaaa: ")
 dia = data[0:2]
 mes = data[3:5]

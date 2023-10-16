@@ -1,3 +1,10 @@
+# Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual e mostre:
+# a) A idade dessa pessoa em anos;
+# b) A idade dessa pessoa em meses;
+# c) A idade dessa pessoa em dias;
+# d) A idade dessa pessoa em semanas.
+
+
 Nascimento = int(input("digite o ano de nascimento: "))
 Ano = int(input("digite o ano atual: "))
 

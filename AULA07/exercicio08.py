@@ -1,3 +1,9 @@
+# Faça um programa que receba um número inteiro maior
+# que 1. Ele deve verificar se o número fornecido é primo
+# ou não, e mostrar a mensagem correspondente.
+# Lembre-se: um número primo só é divisível por 1 ou por
+# ele mesmo.
+
 k = int(input("Entre com o valor: "))
 primo = True
 n = 0

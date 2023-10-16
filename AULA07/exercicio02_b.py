@@ -1,3 +1,7 @@
+# Faça um algoritmo que calcule a área de um triângulo.
+# Este algoritmo não pode permitir a entrada de dados
+# inválidos, ou seja, medidas menores ou iguais a zero.
+
 while True:
     base = float(input("Entre com a base:"))
     if base > 0:

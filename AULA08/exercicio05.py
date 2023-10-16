@@ -1,3 +1,8 @@
+# Faça um algoritmo para determinar quantas
+# palavras existem em uma determinada frase
+# Obs: tanto a palavra, quanto a frase, devem
+# ser informadas pelo usuário.
+
 frase = input("digite uma frase: ")
 palavra = input("digite a palavra: ")
 qtd = frase.count(palavra)
