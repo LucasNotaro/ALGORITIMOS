@@ -1,3 +1,12 @@
+# Faça um algoritmo para ler nove caracteres
+# numéricos em uma string. Mostre o conteúdo
+# dessa string colando pontos e virgula,
+# respectivamente nas posições inteiras e
+# decimais.
+# Exemplo:
+# Digitado> 987654321
+# Mostrado> 9.876.543,21
+
 while True:
     valor = input("Digite o valor de nove caracteres: ")
     if valor.isnumeric() and len(valor) == 9:
