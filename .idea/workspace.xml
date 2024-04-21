@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7aeb746-3b2d-48bd-a081-b963f4493813" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AULA16/ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AULA16/ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AULA16/ex03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2UJlqjv17iU536A3zOXWzliELj3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,9 +32,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alunos/Desktop/PROJETOS/ALGORITIMOS-LOGICA&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/OneDrive/Área de Trabalho/PROJETOS/Algoritimos-Logica&quot;
   }
 }</component>
   <component name="RunManager" selected="Python.ex03">
